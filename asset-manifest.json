@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prediksi-saham.github.io/static/css/main.815f796c.css",
+    "main.js": "/prediksi-saham.github.io/static/js/main.86e5df57.js",
+    "static/js/453.964ee891.chunk.js": "/prediksi-saham.github.io/static/js/453.964ee891.chunk.js",
+    "index.html": "/prediksi-saham.github.io/index.html",
+    "main.815f796c.css.map": "/prediksi-saham.github.io/static/css/main.815f796c.css.map",
+    "main.86e5df57.js.map": "/prediksi-saham.github.io/static/js/main.86e5df57.js.map",
+    "453.964ee891.chunk.js.map": "/prediksi-saham.github.io/static/js/453.964ee891.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.815f796c.css",
+    "static/js/main.86e5df57.js"
+  ]
+}
